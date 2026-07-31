@@ -10,3 +10,10 @@ You can learn more about Typst and its source code on GitHub:
 
 - Typst on GitHub: https://github.com/typst/typst
 - Typst documentation: https://typst.app/docs/
+
+Use Typst with Tynimist: 
+
+To build and preview the Typst documents in this repository we recommend using Tynimist.
+Tynimist provides an easy workflow for installing Typst and running builds.
+
+- Repo: https://github.com/Myriad-Dreamin/tinymist
